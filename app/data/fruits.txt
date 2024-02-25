@@ -1,0 +1,200 @@
+apple
+banana
+orange
+lemon
+strawberry
+grape
+watermelon
+pineapple
+cherry
+peach
+pear
+apricot
+plum
+kiwi
+mango
+blueberry
+raspberry
+blackberry
+cranberry
+avocado
+coconut
+fig
+grapefruit
+lime
+papaya
+pomegranate
+lychee
+cantaloupe
+honeydew
+guava
+nectarine
+tangerine
+passionfruit
+kiwifruit
+persimmon
+dragonfruit
+elderberry
+boysenberry
+mulberry
+starfruit
+bread
+pasta
+rice
+cereal
+oatmeal
+couscous
+quinoa
+bulgur
+barley
+farro
+polenta
+millet
+lentil
+chickpea
+black bean
+kidney bean
+navy bean
+pinto bean
+soybean
+green bean
+lima bean
+edamame
+mung bean
+fava bean
+adzuki bean
+butter bean
+white bean
+navy bean
+artichoke
+asparagus
+broccoli
+Brussels sprout
+cabbage
+cauliflower
+celery
+cucumber
+eggplant
+fennel
+garlic
+ginger
+kale
+leek
+lettuce
+mushroom
+onion
+peas
+pepper
+potato
+pumpkin
+radish
+spinach
+squash
+sweet potato
+tomato
+turnip
+zucchini
+apple
+banana
+cherry
+grape
+lemon
+mango
+orange
+peach
+pear
+pineapple
+raspberry
+strawberry
+watermelon
+avocado
+blackberry
+blueberry
+coconut
+cranberry
+fig
+kiwi
+lime
+lychee
+papaya
+pomegranate
+grapefruit
+tangerine
+apricot
+guava
+cantaloupe
+honeydew
+plum
+persimmon
+elderberry
+boysenberry
+kiwifruit
+dragonfruit
+nectarine
+starfruit
+mulberry
+passionfruit
+bread
+pasta
+rice
+cereal
+oatmeal
+couscous
+quinoa
+bulgur
+barley
+farro
+polenta
+millet
+lentil
+chickpea
+black bean
+kidney bean
+navy bean
+pinto bean
+soybean
+green bean
+lima bean
+edamame
+mung bean
+fava bean
+adzuki bean
+butter bean
+white bean
+navy bean
+artichoke
+asparagus
+broccoli
+Brussels sprout
+cabbage
+cauliflower
+celery
+cucumber
+eggplant
+fennel
+garlic
+ginger
+kale
+leek
+lettuce
+mushroom
+onion
+peas
+pepper
+potato
+pumpkin
+radish
+spinach
+squash
+sweet potato
+tomato
+turnip
+zucchini
+avocado
+blackberry
+blueberry
+coconut
+cranberry
+fig
+kiwi
+lime

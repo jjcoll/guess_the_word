@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block title %}{% endblock %}
+
+
+{% block content %}
+<div class='container mt-3'>
+        <h5 class="card-title">The correct word was <u>{{ word }}</u></h5>
+        <p class="card-text">You ran out of lifes, do not worry though you can always play again</p>
+        <button type="button" class="btn btn-primary play-again">Play Again</button>
+        <button type="button" class="btn btn-secondary about">About</button>
+</div>
+        <script src="{{ url_for('static', filename='js/gameover_events.js') }}"></script>
+{% endblock %}
