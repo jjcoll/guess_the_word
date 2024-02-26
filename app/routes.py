@@ -116,7 +116,7 @@ def game_over():
 
 @bp.route("/about")
 def about():
-
+    print(session["theme"])
     return render_template("about.html")
 
 
@@ -138,3 +138,19 @@ def change_wordlist():
             "wordsfile": session["wordsfile"],
         }
     )
+
+
+@bp.route("/change-theme", methods=["POST"])
+def change_theme():
+    theme = request.json.get("theme")
+    session["theme"] = theme
+    return jsonify({"works": True})
+
+
+@bp.route("/theme", methods=["GET"])
+def update_theme():
+    print(f"Sesssion theme: {session['theme']}")
+    if "theme" in session.keys():
+        return jsonify({"theme": session["theme"]})
+    else:
+        return jsonify({"theme": 0})
