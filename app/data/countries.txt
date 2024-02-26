@@ -1,197 +1,195 @@
-afghanistan
-albania
-algeria
-andorra
-angola
-antigua and barbuda
-argentina
-armenia
-australia
-austria
-azerbaijan
-bahamas
-bahrain
-bangladesh
-barbados
-belarus
-belgium
-belize
-benin
-bhutan
-bolivia
-bosnia and herzegovina
-botswana
-brazil
-brunei
-bulgaria
-burkina faso
-burundi
-cabo verde
-cambodia
-cameroon
-canada
-central african republic
-chad
-chile
-china
-colombia
-comoros
-congo
-costa rica
-croatia
-cuba
-cyprus
-czechia
-democratic republic of the congo
-denmark
-djibouti
-dominica
-dominican republic
-east timor
-ecuador
-egypt
-el salvador
-equatorial guinea
-eritrea
-estonia
-eswatini
-ethiopia
-fiji
-finland
-france
-gabon
-gambia
-georgia
-germany
-ghana
-greece
-grenada
-guatemala
-guinea
-guinea bissau
-guyana
-haiti
-honduras
-hungary
-iceland
-india
-indonesia
-iran
-iraq
-ireland
-israel
-italy
-ivory coast
-jamaica
-japan
-jordan
-kazakhstan
-kenya
-kiribati
-kosovo
-kuwait
-kyrgyzstan
-laos
-latvia
-lebanon
-lesotho
-liberia
-libya
-liechtenstein
-lithuania
-luxembourg
-madagascar
-malawi
-malaysia
-maldives
-mali
-malta
-marshall islands
-mauritania
-mauritius
-mexico
-micronesia
-moldova
-monaco
-mongolia
-montenegro
-morocco
-mozambique
-myanmar
-namibia
-nauru
-nepal
-netherlands
-new zealand
-nicaragua
-niger
-nigeria
-north korea
-north macedonia
-norway
-oman
-pakistan
-palau
-palestine state
-panama
-papua new guinea
-paraguay
-peru
-philippines
-poland
-portugal
-qatar
-romania
-russia
-rwanda
-saint kitts and nevis
-saint lucia
-saint vincent and the grenadines
-samoa
-san marino
-sao tome and principe
-saudi arabia
-senegal
-serbia
-seychelles
-sierra leone
-singapore
-slovakia
-slovenia
-solomon islands
-somalia
-south africa
-south korea
-south sudan
-spain
-sri lanka
-sudan
-suriname
-sweden
-switzerland
-syria
-taiwan
-tajikistan
-tanzania
-thailand
-togo
-tonga
-trinidad and tobago
-tunisia
-turkey
-turkmenistan
-tuvalu
-uganda
-ukraine
-united arab emirates
-united kingdom
-united states of america
-uruguay
-uzbekistan
-vanuatu
-vatican city
-venezuela
-vietnam
-yemen
-zambia
-zimbabwe
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czechia
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe

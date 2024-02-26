@@ -29,8 +29,8 @@ def print_board(board):
 def check_board(letter, board, word, lives):
     looses_life = True
     for i in range(len(word)):
-        if letter == word[i]:
-            board[i] = letter
+        if letter.lower() == word[i].lower():
+            board[i] = word[i]
             looses_life = False
     if looses_life and lives > 0:
         lives -= 1
