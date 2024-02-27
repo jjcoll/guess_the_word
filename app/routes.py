@@ -53,6 +53,7 @@ def index():
 
     else:
         start_new_game("200words.txt")
+        session["wordsfile"] = "200words.txt"
 
     return render_template(
         "index.html",
